@@ -1,5 +1,5 @@
 # Workshop-on-RTL-Design-and-Synthesis-with-sky-130Tech
-A report on 5 day workshop on RTL design and synthesis using opensource tools - iverilog, gtkwave, yosys and sky130-130nm technology PDK and standard cell library.
+Details of workshop on RTL design and synthesis using opensource tools - iverilog, gtkwave, yosys and sky 130nm standard cell libraries.
 # Table of contents
  - [Day-1- Introduction to Verilog RTL Design and Synthesis](#1-Introduction-to-Verilog-RTL-Design-and-Synthesis)
     - [1.1 Introduction](#11-Introduction)
